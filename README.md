@@ -1,13 +1,10 @@
-# 🚀 Elite Placement Training: Complete Problem Solving Journal
+# 🚀Complete Problem Solving Journal
 
 ![Java](https://img.shields.io/badge/Language-Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Data Structures](https://img.shields.io/badge/Topic-DSA-blue?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Questions_Solved-150+-success?style=for-the-badge)
 
-## 📌 About This Repository
-This repository is a comprehensive, daily archive of my coding progress across **Phase 1 and Phase 2** of Elite Placement Training. It serves as a personal log and a demonstration of consistent, long-term problem-solving. 
 
-The repository contains over 150 optimized solutions written in Java, covering core Data Structures and Algorithms (DSA) concepts from platforms like LeetCode, HackerRank, and OneCompiler.
 
 ---
 
